@@ -35,6 +35,17 @@ cd PruebaDesempe-oMod1
 python PruebaDesempeñoMod1.py
 ```
 
+## Uso ⚙️
+Once started, the program gives us a menu with different options: 
+
+![Image](https://github.com/user-attachments/assets/655a36e2-3107-4047-a78b-b2f46a8302ae)
+
+Once you've selected the option, press Enter. The program will guide you through the desired action:
+
+![Image](https://github.com/user-attachments/assets/a203b711-46f8-499d-acab-c246a2438766)
+
+The menu is repeated until option 6 is chosen.
+
 ## Soporte 🐛
 
 for issues contact me pablo@...gmail.com
