@@ -6,7 +6,8 @@
 > This program corresponds to the evaluation of the knowledge acquired in module 1 of Riwi
 > The exercise is based on being able to add, search and delete products from a store's inventory, as well as update prices and calculate the total price of the inventory.
 
-
+* **Estado del proyecto**
+  Beta
 
 ## Table of contents
 - [Instalation](#instalación)
