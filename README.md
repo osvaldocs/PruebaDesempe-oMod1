@@ -1,2 +1,2 @@
-# PruebaDesempe-oMod1
+# PruebaDesempeñoMod1
 Examen de desempeño del modulo 1 de Riwi
